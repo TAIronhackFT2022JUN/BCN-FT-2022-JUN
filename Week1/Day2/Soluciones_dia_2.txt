@@ -9,3 +9,6 @@ https://codepen.io/TAIronhack/pen/OJQZbqv
 
 - Funciones SOL:
 https://codepen.io/TAIronhack/pen/xxYjReZ
+
+- Laboratorio2 SOL:
+https://gist.github.com/IH-WebDev-TA-Remote/31196f40d9eef74f02860a62842f30d8
