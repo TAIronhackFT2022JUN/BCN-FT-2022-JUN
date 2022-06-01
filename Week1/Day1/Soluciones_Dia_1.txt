@@ -1,0 +1,20 @@
+- Condicionales SOL:
+https://codepen.io/TAIronhack/pen/NWyMbBz
+
+- Variables SOL:
+https://codepen.io/TAIronhack/pen/dydeOgO
+
+-Numbers SOL:
+https://codepen.io/TAIronhack/pen/KKQRNGb
+
+- Strings SOL:
+https://codepen.io/TAIronhack/pen/abqGBQO
+
+- Booleanos SOL:
+https://codepen.io/TAIronhack/pen/wvyjoQj
+
+- Loops SOL: 
+https://codepen.io/TAIronhack/pen/LYQmbMZ
+
+- LAB Dia 1 - Javascript Basic Algorithsm SOL:
+https://gist.github.com/IH-WebDev-TA-Remote/2948cf0d8402abaab409e3a2d834d413

@@ -1,1 +1,0 @@
-console.log("soy el index creado por alejandro")

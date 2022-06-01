@@ -1,1 +1,0 @@
-console.log("ENVIADO DESDE FTVALEX01")
