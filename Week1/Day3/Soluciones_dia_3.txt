@@ -1,0 +1,9 @@
+- ObjetosSOL:
+https://codepen.io/TAIronhack/pen/yLvjXgB
+
+- Laboratorio3 SOL | lab-css-recipes-clon:
+https://gist.github.com/ta-webft-es-rmt/54495e8cc4fe7add713eefff9261d4c4
+https://gist.github.com/IH-WebDev-TA-Remote/cf10188035251ef86f7f150959ae31c7
+
+- Laboratorio BONUS | lab-javascript-clue:
+https://gist.github.com/TA-Remote/85cceb77e4beb58a5a4d90ad6a2ea7da

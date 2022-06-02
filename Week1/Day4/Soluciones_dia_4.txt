@@ -1,0 +1,13 @@
+- FilterSOL:
+https://codepen.io/TAIronhack/pen/ZErogMa
+- ForEachSOL:
+https://codepen.io/TAIronhack/pen/PoQeMdq
+- MapSOL:
+https://codepen.io/TAIronhack/pen/JjpvgBm
+- ReduceSOL:
+https://codepen.io/TAIronhack/pen/KKQROBW
+- SortSOL:
+https://codepen.io/TAIronhack/pen/vYdjorw
+
+- Laboratorio3 SOL:
+03/06/2022
