@@ -1,0 +1,8 @@
+- css-spotify-clone SOL:
+https://gist.github.com/IH-WebDev-TA-Remote/818d903333f3393fab152a2ad3a4d87d
+
+- css-instagram-clone SOL:
+https://gist.github.com/TA-Remote/003526966a51513971f13e690ab03c19
+
+- assessment SOL:
+https://gist.github.com/jorgeberrizbeitia/957f201c69eb09e75809be80b7c6d949

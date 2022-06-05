@@ -1,0 +1,116 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+/* Seperating page in two halves */
+body {
+    font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#1c5380 40%, transparent 40%) no-repeat;
+    /*background-color: ; */
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:0;
+  }
+  
+  .mainleft {
+    flex-basis: 40%;
+    width: auto;
+    padding: 150px 10px 0px 100px;
+  }
+  
+  .mainleft img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .mainright {
+    flex-basis: 60%;
+    width: auto;
+    justify-content: flex-start;
+    padding: 150px 100px 0px 50px;
+  }
+  
+  /* Blue background and header */
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    padding-bottom: 30px;
+  }
+  
+  .logInButton {
+      display: flex;
+      flex-direction: row;
+      color: white;
+      background-image: linear-gradient(#5484ac, #376891 80%);
+      width: 110px;
+      height: 40px;
+      align-items: center;
+      border-radius: 3px;
+      margin-top: 15px;
+      border: 1px solid black;
+  }
+  
+  .logInButton img {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+  }
+  
+  .logInButton p {
+    
+    font-weight: 600;
+  }
+  
+  /* White block with text */
+  .textBlock {
+    background-color: white;
+    border-radius: 3px;
+    padding: 10px;
+    box-shadow: -30px 0px 100px -90px #000000, 30px 0px 100px -90px #000000;
+  }
+  
+  .textBlock h2 {
+    color: #1c5380;
+    flex-wrap: wrap;
+    padding-left: 20px;
+  }
+  
+  .textBlock p {
+    padding-left: 20px;
+  }
+  
+  .textBlock img {
+    padding-left: 20px;
+  }
+  
+  /* Bottom */
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 50px 150px 100px 150px; 
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color:#1c5380;
+  }
+  
+  li {
+    padding: 10px;
+  }
+  
+  .copy {
+    color: darkgrey;
+  }
