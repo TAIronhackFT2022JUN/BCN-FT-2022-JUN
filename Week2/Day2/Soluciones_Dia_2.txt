@@ -2,3 +2,4 @@
 https://codepen.io/TAIronhack/pen/eYVLWBG
 
 - LAB lab-javascript-dom-cart:
+https://gist.github.com/IH-WebDev-TA-Remote/c67a111bcc4b2ba521c5a7e28e2ecbaa
