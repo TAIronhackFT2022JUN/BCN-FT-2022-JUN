@@ -1,0 +1,11 @@
+Animar los spritesheets dirección y demás:
+https://dev.to/martyhimmel/animating-sprite-sheets-with-javascript-ag3
+
+Assets gratuitos:
+https://craftpix.net/freebies/
+
+"Empaquetador" de texturas:
+https://www.codeandweb.com/texturepacker
+
+Disparar desde objeto moviendose (para spaceinvaders, etc):
+https://codepen.io/santaeugeniaJ/pen/OJQvXNd
