@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flappy Bird</title>
+  <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- SPLASH SCREEN -->
+    <div id="splash-screen" class="container">
+      <img src="images/logo.png" width="500" alt="logo">
+      <button id="start-btn">Start!</button>
+    </div>
+
+    <!-- GAME SCREEN -->
+    <canvas id="my-canvas" width="600" height="400"></canvas>
+
+    <!-- GAME OVER SCREEN -->
+    <div id="gameover-screen" class="container">
+      <img src="images/gameover.png" width="500" alt="logo">
+      <button id="restart-btn">Play Again!</button>
+      <button id="back-to-menu">Back to menu</button>
+    </div>
+
+  </div>
+
+  <script src="javascript/main.js"></script>
+  <script src="javascript/game.js"></script>
+  <script src="javascript/pollo.js"></script>
+  <script src="javascript/pipe.js"></script>
+
+</body>
+
+</html>

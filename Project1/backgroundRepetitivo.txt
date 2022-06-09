@@ -1,0 +1,5 @@
+Aquí teneís una prueba de una imagen "infinita", si quitais el bloque y la tubería con GIMP o otro similar
+y la tubería que sea otro archivo, ya tendréis algo para colisionar en un mapa cómo si fuera el del flappy bird 
+(no hagáis un plataforma, que son complicadetes)
+
+https://codepen.io/santaeugeniaJ/pen/rNmXBLW
