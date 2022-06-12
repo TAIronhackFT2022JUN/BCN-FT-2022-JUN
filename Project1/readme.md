@@ -5,4 +5,10 @@
 - Para añadir audio a un juego, podéis ver el memory-game o el canvas-race-car
     - Se añade el audio en el index.html y luego por dom (document.getEelementById, por ejemplo) se agrega a una const y usamos .play() o .stop()
 
+<div align="center">
+
+```
 Cualquier consulta, avisad a los TA o al profesor. Si algo no funciona correctamente, también :D...
+```
+
+</div>
