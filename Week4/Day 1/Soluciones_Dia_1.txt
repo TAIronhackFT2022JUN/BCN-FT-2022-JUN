@@ -1,0 +1,19 @@
+- 1. Desestructuración SOL:
+https://codepen.io/TAIronhack/pen/yLvrQEN
+
+- 1.2. Desestructuración PARAMS SOL:
+https://codepen.io/TAIronhack/pen/dydLQdZ
+
+- 2. Spread and Copy SOL:
+https://codepen.io/TAIronhack/pen/BaYEGVM
+
+- 2.2. Spread and Rest DESCARTE SOL:
+https://codepen.io/TAIronhack/pen/ZErZmjW
+
+- 3. Promesas SOL:
+https://codepen.io/TAIronhack/pen/abqxQjW
+
+- 4. Fetch SOL:
+https://codepen.io/TAIronhack/pen/LYQvXBO
+
+- LAB Dia 1 - lab-es6-promises SOL:
