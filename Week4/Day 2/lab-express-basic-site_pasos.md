@@ -59,3 +59,8 @@ app.listen(3000, () => console.log('My first app listening on port 3000!'));
 ```nodemon app.js``` 
 o
 ```npm run dev```
+
+- En chrome (3000 o vuestro puerto en app.js, última línia)
+```localhost:3000```
+
+- A modificar los ficheros html para dejarlo a gusto, aconsejo empezar por un menú y footer, así solo tendréis que copiar / pegar en las 3 pàginas restantes ya que todas tendrán el mismo menú y el mismo footer.
