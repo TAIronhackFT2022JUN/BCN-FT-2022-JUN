@@ -12,6 +12,7 @@
     "dev": "nodemon app.js"
 }
 ```
+![package.json](https://user-images.githubusercontent.com/14861253/174856117-78a10a10-22fa-42a7-b859-22399f36f56e.png)
 
 - Instalamos express 
 ```npm i express```
@@ -51,6 +52,8 @@ app.listen(3000, () => console.log('My first app listening on port 3000!'));
             1. about.html
             1. gallery.html
             1. work.html
+
+![estructura ficheros](https://user-images.githubusercontent.com/14861253/174856433-9ec08ca5-610b-460a-a86d-9a99f25e7405.png)
 
 - Ejecutamos en terminal
 ```nodemon app.js``` 
