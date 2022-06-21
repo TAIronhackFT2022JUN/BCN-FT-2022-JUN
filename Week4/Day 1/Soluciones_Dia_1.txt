@@ -17,3 +17,4 @@ https://codepen.io/TAIronhack/pen/abqxQjW
 https://codepen.io/TAIronhack/pen/LYQvXBO
 
 - LAB Dia 1 - lab-es6-promises SOL:
+https://gist.github.com/ta-webft-es-rmt/b9107042a594eba9418a7d8022bd6615
