@@ -3,24 +3,24 @@
 - Forkeamos
 - Clonamos
 - Creamos el fichero package.json
-~~npm init -y~~
+```npm init -y```
 
 - Creamos un script dentro del package.json:
-~~
+```
 "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
 }
-~~
+```
 
 - Instalamos express 
-~~npm i express~~
+```npm i express```
 
 - Instalamos nodemon
-~~npm i nodemon~~
+```npm i nodemon```
 
 - Creamos el app.js con lo siguiente, solo tenemos que crear los ENDPOINTS y apuntando a la carpeta "views" para renderizar la vista que queramos
-~~
+```
 // Require Express
 const express = require('express');
 
@@ -41,7 +41,7 @@ app.get('/work', (request, response, next) => response.sendFile(__dirname + '/vi
 
 // Server Started
 app.listen(3000, () => console.log('My first app listening on port 3000!'));
-~~
+```
 
 - Creamos la estructura de ficheros que nos pide el enunciado
     - Carpeta /public dentro de esta, carpeta /css y /images (y si tenemos scripts, carpeta /scripts)
@@ -53,6 +53,6 @@ app.listen(3000, () => console.log('My first app listening on port 3000!'));
             1. work.html
 
 - Ejecutamos en terminal
-~~nodemon app.js~~ 
+```nodemon app.js``` 
 o
-~~npm run dev~~
+```npm run dev```
