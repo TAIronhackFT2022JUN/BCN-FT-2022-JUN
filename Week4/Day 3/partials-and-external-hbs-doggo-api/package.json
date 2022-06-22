@@ -1,0 +1,20 @@
+{
+  "name": "partials-and-external-hbs-doggo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doggo-api-wrapper": "1.0.1",
+    "dotenv": "16.0.1",
+    "express": "4.18.1",
+    "hbs": "4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
