@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 
 const MONGO_URI =
   process.env.MONGODB_URI ||
-  "mongodb+srv://admin:admin@cluster0.iypz8.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://USER:PASSWORD@cluster0.iypz8.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose
   .connect(MONGO_URI)
