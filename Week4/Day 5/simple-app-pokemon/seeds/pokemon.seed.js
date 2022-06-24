@@ -149,7 +149,7 @@ const pokemonArr = [
   { name: "dragonair", url: "https://tinyurl.com/ironhack-pokemons/148.svg/" },
   { name: "dragonite", url: "https://tinyurl.com/ironhack-pokemons/149.svg/" },
   { name: "mewtwo", url: "https://tinyurl.com/ironhack-pokemons/150.svg/" },
-  { name: "mew", url: "https://tinyurl.com/ironhack-pokemons/151.svg/" }
+  { name: "mew", url: "https://tinyurl.com/ironhack-pokemons/151.svg/" },
 ];
 
 // aqui insertaremos la data a la BD
@@ -161,9 +161,7 @@ const Pokemon = require("../models/Pokemon.model");
 const mongoose = require("mongoose");
 
 mongoose
-  .connect(
-    "mongodb+srv://admin:admin@cluster0.iypz8.mongodb.net/?retryWrites=true&w=majority"
-  )
+  .connect("mongodb://localhost/act-pokemon")
   .then((response) => {
     console.log("conectados a la Dase de Datos");
 
