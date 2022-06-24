@@ -35,3 +35,10 @@ app.use("/", index);
 require("./error-handling")(app);
 
 module.exports = app;
+
+//Descargar codesandbox y hacerlo local
+//Hacerlo funcionar actuando en BBDD local (seed -> node seeds/pokemon.seed.js)
+//Crear una pagina /pikachu que muestre picachu
+//Incluir acceso a /pikachu en el menu superior.
+//En la lista de pokemons
+//Anadir boton 'eliminar'

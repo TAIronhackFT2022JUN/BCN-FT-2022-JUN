@@ -1,5 +1,8 @@
-
 <div>
   <h3>{{response.name}}</h3>
   <img src="{{response.url}}" alt="pokemon">
+  <br>
+  <form action="/pokemons/{{response._id}}/delete" method="POST">
+    <button>Delete</button>
+  </form>
 </div>
