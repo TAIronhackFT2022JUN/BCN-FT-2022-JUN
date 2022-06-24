@@ -1,0 +1,14 @@
+
+<form>
+
+  <input type="text" name="name" placeholder="... un pokemon">
+  <button>Buscar Pokemon</button>
+
+</form>
+
+{{#if response}}
+<div>
+  <h4>{{response.name}}</h4>
+  <img src="{{response.url}}" alt="poke">
+</div>
+{{/if}}

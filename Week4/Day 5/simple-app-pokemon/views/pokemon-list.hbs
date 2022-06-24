@@ -1,0 +1,15 @@
+
+
+
+<div>
+
+  <h2>Lista de Pokemons</h2>
+
+  {{#each response}}
+
+    {{!-- <h4>{{this.name}}</h4> --}}
+    <h4><a href="/pokemons/{{this._id}}">{{this.name}}</a></h4>
+
+  {{/each}}
+
+</div>
