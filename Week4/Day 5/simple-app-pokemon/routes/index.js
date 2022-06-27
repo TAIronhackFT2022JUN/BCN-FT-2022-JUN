@@ -44,7 +44,7 @@ router.post("/pokemons/:_id/delete", (req, res, next) => {
   const { _id } = req.params;
 
   Pokemon.findByIdAndDelete(_id)
-    .then(() => res.redirect("/pokemons"))
+    .then(() => console.log("eliminado"))
     .catch((error) => next(error));
 });
 //DELETE ONE POKEMON -------------------------------------------
