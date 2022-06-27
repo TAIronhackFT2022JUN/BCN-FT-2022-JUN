@@ -1,0 +1,26 @@
+{{!-- views/movie-details.hbs --}}
+
+<div class="movie-details">
+
+    <div class="img-container">
+        <img src="{{oneMovie.image}}" alt="movie">
+    </div>
+
+    <div class="movie-detail-container">
+        <a href="/movies">Go back</a>
+        <h3>{{oneMovie.title}}</h3>
+        <h4>Stars</h4>
+
+        {{#each oneMovie.stars}}
+        <li>{{this}}</li>
+        {{/each}}
+
+        <p>{{oneMovie.description}}</p>
+        <ul>
+            {{#each oneMovie.showtimes}}
+            {{this}} |
+            {{/each}}
+        </ul>
+    </div>
+
+</div>
