@@ -1,0 +1,15 @@
+{{!-- views/movies.hbs --}}
+
+<div class="movie-container">
+
+    {{#each allMovies}}
+    <div class="movie-card">
+
+        <img src="{{this.image}}" alt="">
+        <h5>{{this.title}}</h5>
+        <a href="/movies/{{this._id}}">See more!</a>
+
+    </div>
+    {{/each}}
+
+</div>
