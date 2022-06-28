@@ -1,0 +1,28 @@
+{{!-- views/drones/list.hbs --}}
+
+<h2>Available drones</h2>
+<hr>
+
+<div>
+
+  {{#each drone}}
+  <div>
+
+    <h3>{{this.name}}</h3>
+    <p>Propellers: {{this.propellers}}</p>
+    <p>Max Speed: {{this.maxSpeed}}</p>
+
+    <form method='GET' action='/drones/{{this._id}}/edit'>
+      <button type='submit'>Edit</button>
+    </form>
+
+    <form method='POST' action='/drones/{{this._id}}/delete'>
+      <button type='submit'>Delete</button>
+    </form>
+
+    <hr>
+
+  </div>
+  {{/each}}
+
+</div>

@@ -1,0 +1,27 @@
+{{!-- views/drones/update-form.hbs --}}
+
+<h2>Update the drone</h2>
+<hr>
+
+<div>
+  <form method='POST' action='/drones/{{drone._id}}/edit'>
+
+    <div>
+      <label>Name: </label>
+      <input name='name' type='text' value='{{drone.name}}'>
+    </div>
+
+    <div>
+      <label>Propellers: </label>
+      <input name='propellers' type='number' value='{{drone.propellers}}'>
+    </div>
+
+    <div>
+      <label>Max Speed: </label>
+      <input name='maxSpeed' type='number' value='{{drone.maxSpeed}}'>
+    </div>
+
+    <button type='submit'>Submit</button>
+
+  </form>
+</div>
