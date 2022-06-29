@@ -16,7 +16,7 @@
 - [Day 2](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week2/Day2)
 - [Day 3](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week2/Day3)
 
-### [Proyecto#1 - Canvas](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project1)
+### [Project#1 - Canvas](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project1)
 
 </div>
 <div>
@@ -34,9 +34,9 @@
 ### [Week 5](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5)
 - [Day 1](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day1)
 - [Day 2](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day2)
-- [Day 3](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week1/Day3)
+- [Day 3](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day3)
 
-### [Proyecto#2 - Node](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project2_NODE)
+### [Project#2 - Node](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project2_NODE)
 
 </div>
 </div>
