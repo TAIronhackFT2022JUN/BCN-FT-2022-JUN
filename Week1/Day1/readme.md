@@ -1,16 +1,16 @@
 # Temario del día
 
-### Variables
+### [ Variables ]
 - https://codepen.io/TAIronhack/pen/dydeOgO
-### Numeros
+### [ Numeros ]
 -https://codepen.io/TAIronhack/pen/KKQRNGb
-### Strings
+### [ Strings ]
 - https://codepen.io/TAIronhack/pen/abqGBQO
-### Booleanos
+### [ Booleanos ]
 - https://codepen.io/TAIronhack/pen/wvyjoQj
-### Condicionales
+### [ Condicionales ]
 - https://codepen.io/TAIronhack/pen/NWyMbBz
-### Loops
+### [ Loops ]
 - https://codepen.io/TAIronhack/pen/LYQmbMZ
 ### Laboratorio - lab-javascript-basic-algorithms
 https://gist.github.com/IH-WebDev-TA-Remote/2948cf0d8402abaab409e3a2d834d413
