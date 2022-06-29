@@ -1,4 +1,4 @@
-# Temario del día 1
+# Temario del día
 
 ### Variables
 - https://codepen.io/TAIronhack/pen/dydeOgO
@@ -12,7 +12,7 @@
 - https://codepen.io/TAIronhack/pen/NWyMbBz
 ### Loops
 - https://codepen.io/TAIronhack/pen/LYQmbMZ
-### Laboratorio
+### Laboratorio - lab-javascript-basic-algorithms
 https://gist.github.com/IH-WebDev-TA-Remote/2948cf0d8402abaab409e3a2d834d413
 
 <div align="center">
