@@ -1,18 +1,18 @@
-### Temario del día 1
+# Temario del día 1
 
-# Variables
+### Variables
 - https://codepen.io/TAIronhack/pen/dydeOgO
-# Numeros
+### Numeros
 -https://codepen.io/TAIronhack/pen/KKQRNGb
-# Strings
+### Strings
 - https://codepen.io/TAIronhack/pen/abqGBQO
-# Booleanos
+### Booleanos
 - https://codepen.io/TAIronhack/pen/wvyjoQj
-# Condicionales
+### Condicionales
 - https://codepen.io/TAIronhack/pen/NWyMbBz
-# Loops
+### Loops
 - https://codepen.io/TAIronhack/pen/LYQmbMZ
-# Laboratorio
+### Laboratorio
 https://gist.github.com/IH-WebDev-TA-Remote/2948cf0d8402abaab409e3a2d834d413
 
 <div align="center">
