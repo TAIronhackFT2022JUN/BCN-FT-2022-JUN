@@ -8,4 +8,27 @@
 Cualquier consulta, avisad a los TA o al profesor. Si algo no funciona correctamente, también :D...
 ```
 
+## Wireframes:
+- https://mockflow.com/
+- https://www.figma.com/
+- https://balsamiq.com/
+
+## Logo Generator:
+- https://www.brandcrowd.com/maker
+- https://hatchful.shopify.com/
+
+## CSS tools:
+- https://www.heropatterns.com/
+- https://animista.net/
+- https://www.colorzilla.com/gradient-editor/
+
+## Free bank images:
+- https://unsplash.com/
+- https://undraw.co/illustrations
+
+## App name generator:
+- https://namelix.com/
+
+
+
 </div>
