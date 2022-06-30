@@ -10,7 +10,7 @@
 - https://github.com/TAIronhackFT2022JUN/lab-financial-data-graphing
 
 ### Template project#2
-https://github.com/TAIronhackFT2022JUN/modelo-backend
+https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day4/Proyecto-modelo
 
 <hr>
 
