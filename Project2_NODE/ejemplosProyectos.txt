@@ -1,0 +1,6 @@
+
+## Ejemplos de segundo proyecto
+
+- https://gist.github.com/TA-Remote/1b35432d65d5cd0c3713363547df7d9c (Aquí tenéis ejemplos de diferentes años) 
+
+- https://pastry-app.herokuapp.com/ 
