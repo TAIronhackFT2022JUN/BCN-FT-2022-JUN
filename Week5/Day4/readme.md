@@ -13,10 +13,6 @@
 
 <hr>
 
-
-
-<hr>
-
 <div align="center">
 
 ```
