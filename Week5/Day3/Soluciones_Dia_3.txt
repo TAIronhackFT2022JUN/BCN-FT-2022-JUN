@@ -1,4 +1,4 @@
-     ###lab-express-basic-auth sin bonus IT10
+     ###lab-express-basic-auth
      https://github.com/TAIronhackFT2022JUN/FT2201-basic-auth
      
      
