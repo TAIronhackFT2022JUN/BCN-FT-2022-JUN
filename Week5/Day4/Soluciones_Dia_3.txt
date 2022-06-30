@@ -1,0 +1,12 @@
+###NO LAB DAY
+- Self labs, with solutions
+
+###Template project#2
+
+<hr>
+
+### lab-ajax-crud-characters
+- https://github.com/TAIronhackFT2022JUN/lab-ajax-crud-characters
+
+### lab-financial-data-graphing
+- https://github.com/TAIronhackFT2022JUN/lab-financial-data-graphing

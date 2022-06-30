@@ -35,6 +35,7 @@
 - [Day 1](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day1)
 - [Day 2](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day2)
 - [Day 3](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day3)
+- [Day 4](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week5/Day4)
 
 ### [Project#2 - Node](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project2_NODE)
 
