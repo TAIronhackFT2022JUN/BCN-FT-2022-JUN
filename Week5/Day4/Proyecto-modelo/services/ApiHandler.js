@@ -12,4 +12,5 @@ class CharactersApi {
 
 }
 
+
 module.exports = CharactersApi;
