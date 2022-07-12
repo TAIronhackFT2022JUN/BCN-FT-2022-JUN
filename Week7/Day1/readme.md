@@ -5,6 +5,7 @@
 
 ### lab-hello-react REPOSITORY
 - https://github.com/TAIronhackFT2022JUN/lab-hello-react
+- https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day1/lab-hello-react
 
 <hr>
 
@@ -13,6 +14,7 @@
 
 ### lab-react-tweets REPOSITORY
 - https://github.com/TAIronhackFT2022JUN/lab-react-tweets
+- https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day1/lab-react-tweets
 
 <br>
 

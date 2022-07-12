@@ -3,3 +3,4 @@
 
 ### lab-react-ironcontacts REPOSITORY
 - https://github.com/TAIronhackFT2022JUN/lab-react-ironcontacts
+- https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day2/lab-react-ironcontacts
