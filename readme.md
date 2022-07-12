@@ -1,5 +1,5 @@
 <div>
-<div style="justify-content:center;">
+<div>
 
 <hr>
 
@@ -39,5 +39,14 @@
 
 ### [Project#2 - Node](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project2_NODE)
 
+<hr>
+
+### Módulo 3<hr>
+### [Week 7](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7)
+- [Day 1](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day1)
+- [Day 2](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day2)
+
+
 </div>
 </div>
+<hr>
