@@ -4,10 +4,12 @@ const { Schema, model } = require("mongoose");
 const userSchema = new Schema({
   username: String,
   password: String,
-  favorites:  [{	
-    type: Schema.Types.ObjectId,
-		ref: "Character"
-  }]
+  favorites: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: "Character",
+    },
+  ],
   //referencias de la bd characrters
 });
 
