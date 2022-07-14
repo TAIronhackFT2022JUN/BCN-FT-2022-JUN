@@ -4,7 +4,7 @@
 - https://gist.github.com/ta-webft-es-rmt/539014df22da0c02b3fff2fff209be30
 
 ### lab-wiki-countries REPOSITORY
-- https://gist.github.com/ta-webft-es-rmt/539014df22da0c02b3fff2fff209be30
+- https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day4/lab-wiki-countries
 
 <br>
 
