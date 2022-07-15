@@ -47,6 +47,7 @@
 - [Day 2](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day2)
 - [Day 3](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day3)
 - [Day 4](https://github.com/AitorSantaeugenia/BCN-FT-2022-JUN/tree/main/Week7/Day4)
+- [Day 5](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day5)
 
 </div>
 </div>
