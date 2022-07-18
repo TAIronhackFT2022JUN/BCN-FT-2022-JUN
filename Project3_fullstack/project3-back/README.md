@@ -16,6 +16,10 @@
 #### Lanza el backend
 - npm start
 
+#### Agregar archivo .env con:
+- TOKEN_SECRET = super-secret-password
+- MONGODB_URI=mongodb+srv://user:password.@redone.w7gjz.mongodb.net/?retryWrites=true&w=majority 
+
 ---
 
 ### API Documentation
