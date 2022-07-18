@@ -49,7 +49,7 @@
 - [Day 4](https://github.com/AitorSantaeugenia/BCN-FT-2022-JUN/tree/main/Week7/Day4)
 - [Day 5](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Week7/Day5)
 
-### [Project#3 - FullStack](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project3_fulstack)
+### [Project#3 - FullStack](https://github.com/TAIronhackFT2022JUN/BCN-FT-2022-JUN/tree/main/Project3_fullstack)
 
 </div>
 </div>
