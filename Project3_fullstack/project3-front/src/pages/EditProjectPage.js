@@ -14,17 +14,15 @@ function EditProjectPage(props) {
     const storedToken = localStorage.getItem('authToken');
     
     // Send the token through the request "Authorization" Headers 
-    axios
-      .get(
-        `${API_URL}/projects/${projectId}`,
-        { headers: { Authorization: `Bearer ${storedToken}` } }    
-      )
-      .then((response) => {
-        const oneProject = response.data;
-        setTitle(oneProject.title);
-        setDescription(oneProject.description);
-      })
-      .catch((error) => console.log(error));
+    try {
+			const response = await editProjectPageService(projectId);
+			// Reset the state to clear the inputs
+		  const oneProject = response.data;
+      setTitle(oneProject.title);
+      setDescription(oneProject.description);
+		} catch (err) {
+			console.log(err);
+		}
     
   }, [projectId]);
   
